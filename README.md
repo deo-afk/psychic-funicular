@@ -5,7 +5,7 @@ Nothing much..
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Next Level Mark - Premium Services</title>
+    <title>Next Level Deo - Premium Services</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap">
     <style>
@@ -431,7 +431,7 @@ Nothing much..
 <body>
     <div class="container">
         <header>
-            <h1 class="title floating">Next_Level_Mark</h1>
+            <h1 class="title floating">Next_Level_deo</h1>
             <p class="subtitle">Premium Services at Lightning Speed</p>
             
             <div class="info-bar">
@@ -441,7 +441,7 @@ Nothing much..
                     <div class="battery-level">
                         <div class="battery-fill" id="battery-fill"></div>
                     </div>
-                    <span id="battery-percent">85%</span>
+                    <span id="battery-percent">95%</span>
                 </div>
                 <div class="info-item">
                     <i class="fas fa-clock"></i>
